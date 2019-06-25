@@ -1,0 +1,77 @@
+.wrap{
+    width:100%;
+    height: auto;
+    padding-bottom: 10px;
+}
+.container{
+    width: 100%;
+    background: #fff;
+    margin-top:15px;
+    overflow: hidden;
+}
+.container .top{
+    width: 100%;
+    overflow: hidden;
+    font-size: 13px;
+    color:#373737;
+    margin-left: 10px;
+    border-bottom:1px solid rgba(151, 151, 151, 0.3);
+    padding: 15px 0;
+}
+.container .top .left P{
+    font-weight: bold;
+}
+.container .top .right{
+    text-align: right;
+    margin-left:-30px;
+    color: #FD5D00;
+}
+.container .center{
+    width: 100%;
+    margin-left: 10px;
+    border-bottom:1px solid rgba(151, 151, 151, 0.3);
+    overflow: hidden;
+    padding-bottom: 10px;
+}
+.container .center .l {
+    display: table;
+    text-align: center;
+}
+.container .center .l img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-top: 15px;
+}
+.container .center .r{
+    font-size: 15px;
+    color: #373737;    
+}
+.container .center .r .pls{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.container .center .r .pBox{
+    margin-top:20px;
+    margin-left: 10px;
+    font-size:12px;
+    color: #B4B4B4;
+}
+.container .center .r .pBox p{
+    padding: 2px 0;
+}
+.container .bottom{
+    width: 100%;
+    font-size: 15px;
+    margin-left: 10px;
+}
+.container .bottom .lx{
+    text-align: center;
+    color:#1AAD19;
+    padding: 15px 0;
+}
+.container .bottom .kr{
+    text-align: center;
+    color: #373737;
+    padding: 15px 0;
+}

@@ -1,0 +1,11 @@
+$f-yahei:"\5FAE\8F6F\96C5\9ED1", Helvetica,Microsoft YaHei;
+$f-heiti:SimHei,Helvetica,Arial,Verdana,sans-serif;
+$f-simsun:SimSun,Helvetica,Arial,Verdana,sans-serif;
+$f-arial:Arial,Verdana,Helvetica,sans-serif;
+$f-regular:'PingFang SC Regular', 'PingFang SC';
+$f-common:'Lucida Grande','Lucida Sans Unicode','Hiragino Sans GB', 'WeQuanYi Micro Hei', Verdana, Arial, sans-serif; 
+$f-s:40px;
+$f:100;
+@function rem($s:0){
+  @return #{($s/$f)}rem;
+}

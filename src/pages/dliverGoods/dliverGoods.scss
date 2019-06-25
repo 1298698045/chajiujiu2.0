@@ -1,0 +1,42 @@
+.pad{
+    padding-left:30px; 
+}
+.wrap{
+    width: 100%;
+    height:auto;
+}
+.wrap .title{
+    margin-left: 10px;
+    font-size: 12px;
+    color:#858585;
+    padding: 8px 0;
+}
+.wrap  .box{
+    width: 100%;
+    height: 100px;
+    background:#fff;
+}
+.wrap  .box .nav{
+    margin-left: 10px;
+    height: 51px;
+    line-height: 51px;
+    font-size: 15px;
+    color:#858585;
+    border-bottom:1px solid #e8e8f6;
+}
+.wrap  .box .nav .rig{
+    color: #373737;
+    text-align: right;
+    margin-left: -10px;
+}
+.wrap  .box .nav .rig p i{
+    color: #999999;
+    margin-left: 10px;
+}
+.wrap  .box .min{
+    margin-left: 10px;
+    height: 51px;
+    line-height: 51px;
+    font-size: 15px;
+    color:#858585;
+}

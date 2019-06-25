@@ -1,0 +1,105 @@
+.wrap{
+    width:100%;
+    height: auuto;
+}
+.contentWrap{
+    width: 100%;
+    // height: 2rem;
+    background: #fff;
+    margin-top: 0.3rem;
+}
+.contentWrap .header_name{
+    height: 1rem;
+    line-height: 1rem;
+    font-size: 17px;
+    color:#373737;
+    font-weight: bold;
+    border-bottom: 0.01rem solid rgba(151, 151, 151, 0.3);
+    margin-left: 0.3rem;
+}
+.contentWrap .center{
+    width: 100%;
+    height: auto;
+    display: table;
+    padding: 15px 0;
+    border-bottom: 0.01rem solid rgba(151, 151, 151, 0.3);
+}
+.contentWrap .center .bg-purple img{
+    width: 58px;
+    height: 58px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 3px;
+}
+.contentWrap .center .right .pName{
+    font-size: 15px;
+    color:#373737;
+}
+.contentWrap .center .right .huodong{
+    font-size: 13px;
+    color:#A5A5A5;
+    margin-top: 0.3rem;
+}
+.contentWrap .center .right .huodong .spans{
+    font-size: 10px;
+    color:#FC4608;
+}
+.contentWrap .price{
+    height: 1rem;
+    line-height: 1rem;
+    font-size: 15px;
+    color: #373737;
+    border-bottom: 0.01rem solid rgba(151, 151, 151, 0.3);
+    margin-left: 0.3rem;
+}
+.contentWrap .price span{
+    color: #FC4608;
+}
+.payment{
+    width:100%;
+    height: 1rem;
+    background: #fff;
+    margin-top: 0.3rem;
+    line-height: 1rem;
+    font-size: 17px;
+    // text-align: center;
+    color:#B4B4B4;
+}
+.payment .left p{
+    margin-left: 16px;
+}
+.payment .r p{
+    margin-left: 76px;
+}
+.payment .r span{
+    color: #373737;
+    
+}
+.footerbtn{
+    width: 100%;
+    height: 55px;
+    background: #fff;
+    position:fixed;
+    bottom:0;
+    left: 0;
+}
+.footerbtn .left p{
+    line-height: 55px;
+    margin-left: 15px;
+    font-size: 18px;
+}
+.footerbtn .left p span{
+    color: #FC4608;
+}
+.footerbtn .right .btn{
+    width: 115px;
+    height: 55px;
+    background: #FF5E00;
+    font-size: 17px;
+    color: #fff;
+    text-align: center;
+    margin-left:72px;
+    border:none;
+    border-radius: 0;
+    
+}

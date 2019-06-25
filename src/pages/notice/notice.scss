@@ -1,0 +1,57 @@
+.boxWrap{
+    width: 100%;
+    height: auto;
+}
+.boxWrap .times{
+    text-align: center;
+    font-size:0.24rem;
+    width: 2.5rem;
+    height: 0.5rem;
+    line-height:0.5rem;
+    background: #ccc;
+    margin: 0.3rem auto;
+    color:#fff;
+    border-radius: 0.05rem;
+}
+.boxWrap .cont{
+    width:100%;
+    background:#fff;
+}
+.boxWrap .cont .left {
+    display: table-cell; 
+    vertical-align: middle;
+    text-align: center;
+    padding: 0.3rem 0;
+}
+.boxWrap .cont .left img{
+    width: 1rem;
+    height: 1rem;
+    vertical-align:middle;
+}
+.boxWrap .cont .center{
+    font-size: 0.24rem;
+    margin-top: 0.25rem;
+}
+.boxWrap .cont .center p:nth-child(1){
+    font-size: 0.3rem;
+    color: #373737;
+    font-weight: lighter;
+}
+.boxWrap .cont .center p:nth-child(1) span{
+    font-size: 0.24rem;
+    margin-left: 0.3rem;
+    font-weight: 400;
+}
+.boxWrap .cont .center p:nth-child(2){
+    font-size: 0.3rem;
+    margin-top: 0.3rem;
+    color: #B4B4B4;
+}
+.boxWrap .cont .right{
+    text-align: center;
+}
+.boxWrap .cont .right .cell{
+    font-size: 0.3rem;
+    color: #FF5E00;
+    margin-top: 50%;
+}
